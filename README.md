@@ -1,3 +1,10 @@
+Work in progress: by now this fork is just a workaround to bypass my school firewall that does not allow to open https://thelifeengine.net/
+
+Original readme below...
+
+
+
+
 This is the readme for my evolution simulator, The Life Engine. 
 
 FOR FEATURE REQUESTS, USE THE DISCUSSIONS TAB. FOR BUG REPORTS, USE THE ISSUES TAB. :)
